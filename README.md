@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/beatrice-matera)  
-[![View my Resume](./resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View-orange?style=flat&logo=google-drive)](./resume.pdf)
 
 ---
 
@@ -41,9 +41,9 @@ Here are some of the languages and tools I use to mess around:
 ---
 
 ## 📊 GitHub Stats
-![Beatrice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bexb&show_icons=true&theme=react)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bexb&layout=compact&theme=react)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bexb&theme=react)
+![Beatrice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bexb01&show_icons=true&theme=react)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bexb01&layout=compact&theme=react)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bexb01&theme=react)
 
 ---
 
