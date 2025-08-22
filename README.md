@@ -41,9 +41,9 @@ Here are some of the languages and tools I use to mess around:
 ---
 
 ## 📊 GitHub Stats
-![Beatrice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react)
+![Beatrice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bexb&show_icons=true&theme=react)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bexb&layout=compact&theme=react)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bexb&theme=react)
 
 ---
 
