@@ -2,7 +2,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://www.github.com/bexb01)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/beatrice-matera)  
-[![Resume](https://img.shields.io/badge/Resume-View-orange?style=flat&logo=google-drive)](./resume.pdf)
 
 ---
 
