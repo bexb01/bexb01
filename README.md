@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Beatrice!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com)  
-[![Resume](https://img.shields.io/badge/Resume-View-orange?style=flat&logo=google-drive)](link-to-your-resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/beatrice-matera)  
+[![View my Resume](./resume.pdf)
 
 ---
 
